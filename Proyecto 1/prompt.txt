@@ -1,0 +1,44 @@
+dame el paso a paso para crear :
+
+Sistema de gestion de tareas
+
+con
+
+front end
+
+swing
+
+back end
+
+postgresql (docker)
+
+jpa
+
+spring framework
+
+restapi
+
+intellij idea
+
+arquitectura de capas
+
+patrones de diseño
+
+mvc
+
+repository 
+
+factory method 
+
+singleton 
+
+    Creación y gestión básica de tareas:
+
+        Crear, editar y eliminar tareas.
+
+        Asignar un título, descripción y fecha límite a las tareas.
+
+        Marcar tareas como completadas o pendientes.
+
+no omitas nada, usa el power shell siempre que puedas, primero dame la estructura de carpetas y archivos y despues si el codigo, desde crear el proyecto hasta probar todo, hazlo todo de la manera mas facil posible
+
